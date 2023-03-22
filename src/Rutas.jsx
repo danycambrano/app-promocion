@@ -16,7 +16,7 @@ const router = createBrowserRouter([
         path: "/results",
         element: <Results/>
     }
-], {basename: "/app-vocacion/"})
+], {basename: "/app-promocion"})
 
 
 const Rutas = () => {
