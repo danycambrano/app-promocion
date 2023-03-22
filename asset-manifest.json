@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/app-promocion/static/css/main.861804ed.css",
-    "main.js": "/app-promocion/static/js/main.566c0d23.js",
-    "static/media/matematica.svg": "/app-promocion/static/media/matematica.89473bc8b7c51c44fa0797bace1d3e4b.svg",
-    "static/media/quimica.svg": "/app-promocion/static/media/quimica.5b062070538b876c7f8578ce8d38290b.svg",
-    "static/media/fisica.svg": "/app-promocion/static/media/fisica.86fa60f3d12e9c86e8a76ddf703e7df3.svg",
-    "static/media/sol.svg": "/app-promocion/static/media/sol.542a341b27c7ebd4e02031f4320b72e6.svg",
-    "static/media/luna.svg": "/app-promocion/static/media/luna.70868d697d8eec050a42006fd477cf82.svg",
-    "index.html": "/app-promocion/index.html",
-    "main.861804ed.css.map": "/app-promocion/static/css/main.861804ed.css.map",
-    "main.566c0d23.js.map": "/app-promocion/static/js/main.566c0d23.js.map"
+    "main.css": "/app-vocacion/static/css/main.861804ed.css",
+    "main.js": "/app-vocacion/static/js/main.816a8986.js",
+    "static/media/matematica.svg": "/app-vocacion/static/media/matematica.89473bc8b7c51c44fa0797bace1d3e4b.svg",
+    "static/media/quimica.svg": "/app-vocacion/static/media/quimica.5b062070538b876c7f8578ce8d38290b.svg",
+    "static/media/fisica.svg": "/app-vocacion/static/media/fisica.86fa60f3d12e9c86e8a76ddf703e7df3.svg",
+    "static/media/sol.svg": "/app-vocacion/static/media/sol.542a341b27c7ebd4e02031f4320b72e6.svg",
+    "static/media/luna.svg": "/app-vocacion/static/media/luna.70868d697d8eec050a42006fd477cf82.svg",
+    "index.html": "/app-vocacion/index.html",
+    "main.861804ed.css.map": "/app-vocacion/static/css/main.861804ed.css.map",
+    "main.816a8986.js.map": "/app-vocacion/static/js/main.816a8986.js.map"
   },
   "entrypoints": [
     "static/css/main.861804ed.css",
-    "static/js/main.566c0d23.js"
+    "static/js/main.816a8986.js"
   ]
 }
